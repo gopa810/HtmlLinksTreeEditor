@@ -1,0 +1,8 @@
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\HtmlLinksTreeEditor\HtmlLinksTreeEditor\bin\Debug\HtmlLinksTreeEditor.exe
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\HtmlLinksTreeEditor\HtmlLinksTreeEditor\bin\Debug\HtmlLinksTreeEditor.pdb
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\HtmlLinksTreeEditor\HtmlLinksTreeEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\HtmlLinksTreeEditor\HtmlLinksTreeEditor\obj\Debug\HtmlLinksTreeEditor.MainForm.resources
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\HtmlLinksTreeEditor\HtmlLinksTreeEditor\obj\Debug\HtmlLinksTreeEditor.Properties.Resources.resources
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\HtmlLinksTreeEditor\HtmlLinksTreeEditor\obj\Debug\HtmlLinksTreeEditor.csproj.GenerateResource.Cache
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\HtmlLinksTreeEditor\HtmlLinksTreeEditor\obj\Debug\HtmlLinksTreeEditor.exe
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\HtmlLinksTreeEditor\HtmlLinksTreeEditor\obj\Debug\HtmlLinksTreeEditor.pdb
